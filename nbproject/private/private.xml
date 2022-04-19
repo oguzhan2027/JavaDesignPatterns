@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/singleton/src/singleton/App.java</file>
-            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/singleton/src/singleton/Singleton.java</file>
+            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/S8Fabrikasi.java</file>
+            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/Telefon.java</file>
+            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/TelefonBayisi.java</file>
+            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/TelefonFactory.java</file>
+            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/Note8Fabrikasi.java</file>
+            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/Note8.java</file>
+            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/S8.java</file>
         </group>
     </open-files>
 </project-private>
