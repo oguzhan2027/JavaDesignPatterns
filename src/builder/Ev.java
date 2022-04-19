@@ -58,7 +58,7 @@ public class Ev {
     }
 
     public String getIlce() {
-        return ilce;
+        return ilce; 
     }
 
     public void setIlce(String ilce) {
