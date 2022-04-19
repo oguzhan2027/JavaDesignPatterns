@@ -21,7 +21,7 @@ public class EmlakciV2 {
                 .Build();
                 
         printEv(ev1); 
-        printEv(ev2); 
+        printEv(ev2);   
         
             }
      public static void printEv(Ev ev){
