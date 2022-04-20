@@ -4,12 +4,16 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/S8Fabrikasi.java</file>
+            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/builder/Emlakci.java</file>
             <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/Telefon.java</file>
             <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/TelefonBayisi.java</file>
+            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/builder/EmlakciV2.java</file>
             <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/TelefonFactory.java</file>
+            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/builder/Ev.java</file>
             <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/Note8Fabrikasi.java</file>
             <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/Note8.java</file>
             <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/abstractfactory/S8.java</file>
+            <file>file:/C:/Users/Oguzhan/Documents/NetBeansProjects/cretionalDesignPatterns/src/builder/EvBuilder.java</file>
         </group>
     </open-files>
 </project-private>
